@@ -1,0 +1,15 @@
+artifact_uri: /home/abilash/mlruns/0/8817a07acda9414fbd1ea2945b307b81/artifacts
+end_time: 1690444976284
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8817a07acda9414fbd1ea2945b307b81
+run_name: receptive-croc-138
+run_uuid: 8817a07acda9414fbd1ea2945b307b81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690444975234
+status: 4
+tags: []
+user_id: abilash

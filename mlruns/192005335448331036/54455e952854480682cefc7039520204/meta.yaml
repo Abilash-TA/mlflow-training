@@ -1,0 +1,15 @@
+artifact_uri: /home/abilash/mlruns/192005335448331036/54455e952854480682cefc7039520204/artifacts
+end_time: 1690442360793
+entry_point_name: ''
+experiment_id: '192005335448331036'
+lifecycle_stage: active
+run_id: 54455e952854480682cefc7039520204
+run_name: intelligent-bird-757
+run_uuid: 54455e952854480682cefc7039520204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690442359490
+status: 3
+tags: []
+user_id: abilash

@@ -1,0 +1,15 @@
+artifact_uri: /home/abilash/mlruns/0/36efd0935aa547b4bd3a3ca06fdd4542/artifacts
+end_time: 1690444449140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36efd0935aa547b4bd3a3ca06fdd4542
+run_name: painted-asp-686
+run_uuid: 36efd0935aa547b4bd3a3ca06fdd4542
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690444448281
+status: 4
+tags: []
+user_id: abilash

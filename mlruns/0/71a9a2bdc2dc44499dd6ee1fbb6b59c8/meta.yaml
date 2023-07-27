@@ -1,0 +1,15 @@
+artifact_uri: /home/abilash/mlruns/0/71a9a2bdc2dc44499dd6ee1fbb6b59c8/artifacts
+end_time: 1690445270540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71a9a2bdc2dc44499dd6ee1fbb6b59c8
+run_name: industrious-elk-818
+run_uuid: 71a9a2bdc2dc44499dd6ee1fbb6b59c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690445269681
+status: 4
+tags: []
+user_id: abilash

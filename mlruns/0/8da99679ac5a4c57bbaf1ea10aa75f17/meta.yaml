@@ -1,0 +1,15 @@
+artifact_uri: /home/abilash/mlruns/0/8da99679ac5a4c57bbaf1ea10aa75f17/artifacts
+end_time: 1690444407505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8da99679ac5a4c57bbaf1ea10aa75f17
+run_name: capable-smelt-389
+run_uuid: 8da99679ac5a4c57bbaf1ea10aa75f17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690444406499
+status: 4
+tags: []
+user_id: abilash

@@ -1,0 +1,15 @@
+artifact_uri: /home/abilash/mlruns/0/b95a8b422b6b49ef85b31dee3cd8efb4/artifacts
+end_time: 1690444142292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b95a8b422b6b49ef85b31dee3cd8efb4
+run_name: aged-crow-83
+run_uuid: b95a8b422b6b49ef85b31dee3cd8efb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690444141464
+status: 4
+tags: []
+user_id: abilash

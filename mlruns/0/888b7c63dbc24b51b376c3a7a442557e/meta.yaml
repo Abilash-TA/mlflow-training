@@ -1,0 +1,15 @@
+artifact_uri: /home/abilash/mlruns/0/888b7c63dbc24b51b376c3a7a442557e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 888b7c63dbc24b51b376c3a7a442557e
+run_name: popular-crow-433
+run_uuid: 888b7c63dbc24b51b376c3a7a442557e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690445527746
+status: 1
+tags: []
+user_id: abilash

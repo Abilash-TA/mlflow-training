@@ -1,0 +1,15 @@
+artifact_uri: /home/abilash/mlruns/0/9e58d298408940df931d38ffc0096d88/artifacts
+end_time: 1690445469311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e58d298408940df931d38ffc0096d88
+run_name: awesome-vole-830
+run_uuid: 9e58d298408940df931d38ffc0096d88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690445468451
+status: 4
+tags: []
+user_id: abilash

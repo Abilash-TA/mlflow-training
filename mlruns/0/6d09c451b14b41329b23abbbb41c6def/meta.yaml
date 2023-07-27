@@ -1,0 +1,15 @@
+artifact_uri: /home/abilash/mlruns/0/6d09c451b14b41329b23abbbb41c6def/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d09c451b14b41329b23abbbb41c6def
+run_name: upbeat-wasp-278
+run_uuid: 6d09c451b14b41329b23abbbb41c6def
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690445625176
+status: 1
+tags: []
+user_id: abilash

@@ -1,0 +1,15 @@
+artifact_uri: /home/abilash/mlruns/192005335448331036/e35a25205d29412ab2824c8ab4fdd7cd/artifacts
+end_time: 1690442362332
+entry_point_name: ''
+experiment_id: '192005335448331036'
+lifecycle_stage: active
+run_id: e35a25205d29412ab2824c8ab4fdd7cd
+run_name: casual-stag-650
+run_uuid: e35a25205d29412ab2824c8ab4fdd7cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690442361155
+status: 3
+tags: []
+user_id: abilash

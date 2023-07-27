@@ -1,0 +1,15 @@
+artifact_uri: /home/abilash/mlruns/192005335448331036/d8227478424f45df906a64d0ffa17cf2/artifacts
+end_time: 1690442359461
+entry_point_name: ''
+experiment_id: '192005335448331036'
+lifecycle_stage: active
+run_id: d8227478424f45df906a64d0ffa17cf2
+run_name: lyrical-crab-238
+run_uuid: d8227478424f45df906a64d0ffa17cf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690442357917
+status: 3
+tags: []
+user_id: abilash

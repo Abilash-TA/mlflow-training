@@ -1,0 +1,15 @@
+artifact_uri: /home/abilash/mlruns/0/7fdb6cf1269a44cc93dbfdbe8d455fd1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fdb6cf1269a44cc93dbfdbe8d455fd1
+run_name: grandiose-panda-245
+run_uuid: 7fdb6cf1269a44cc93dbfdbe8d455fd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690442832862
+status: 1
+tags: []
+user_id: abilash
